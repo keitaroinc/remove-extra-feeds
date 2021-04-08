@@ -9,6 +9,7 @@
   Author URI:  https://github.com/gocemitevski
   License:     GPL2
   License URI: https://www.gnu.org/licenses/gpl-2.0.html
+  Copyright:   Copyright (c) 2016 Keitaro AB
  */
 
 // Exit if accessed directly
