@@ -13,7 +13,7 @@
  * Plugin URI:  https://example.com/plugin-name
  * Description: Remove all extra syntication feeds and serve only the main WordPress feed
  * Version:     20170313
- * Author:      Goce Mitevsk
+ * Author:      Goce Mitevski
  * Author URI:  https://example.com
  * Text Domain: plugin-slug
  * License:     GPL v2 or later
