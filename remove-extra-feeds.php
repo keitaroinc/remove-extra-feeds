@@ -1,15 +1,23 @@
 <?php
 
-/*
-  Plugin Name: Remove Extra Feeds
-  Plugin URI:  https://github.com/keitaroinc/remove-extra-feeds
-  Description: Remove all extra syntication feeds and serve only the main WordPress feed
-  Version:     20170313
-  Author:      Goce Mitevski
-  Author URI:  https://github.com/gocemitevski
-  License:     GPL2
-  License URI: https://www.gnu.org/licenses/gpl-2.0.html
-  Copyright:   Copyright (c) 2016 Keitaro AB
+/**
+ * Remove Extra Feeds
+ *
+ * @package     RemoveExtraFeeds
+ * @author      Goce Mitevski
+ * @copyright   2016 Keitaro AB
+ * @license     GPL-2.0-or-later
+ *
+ * @wordpress-plugin
+ * Plugin Name: Remove Extra Feeds
+ * Plugin URI:  https://example.com/plugin-name
+ * Description: Remove all extra syntication feeds and serve only the main WordPress feed
+ * Version:     20170313
+ * Author:      Goce Mitevsk
+ * Author URI:  https://example.com
+ * Text Domain: plugin-slug
+ * License:     GPL v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
 // Exit if accessed directly
