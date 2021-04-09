@@ -10,7 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: Remove Extra Feeds
- * Plugin URI:  https://example.com/plugin-name
+ * Plugin URI:  https://github.com/keitaroinc/remove-extra-feeds
  * Description: Remove all extra syntication feeds and serve only the main WordPress feed
  * Version:     20170313
  * Author:      Goce Mitevski
